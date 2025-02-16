@@ -2,8 +2,7 @@
 
 ## Introduction
 
-Abstract
-This paper presents a novel design of a robotic arm equipped with five fingers. The arm aims to provide a highly dexterous and versatile solution for various industrial and domestic applications. With five fingers, it offers a superior grip, allowing for handling a wider range of objects with ease. The design features a compact and lightweight construction, suitable for integration into various systems. To control the hand, computer vision is utilized to detect hand motion, which is then used to move the animatronic hand. This mechanism achieves enhanced artificial dexterity, crucial for teleoperated service robots in various fields such as extraterrestrial rovers, satellite repair systems, and deep-sea exploration submarines.
+This project presents a novel design of a robotic arm equipped with five fingers. The arm aims to provide a highly dexterous and versatile solution for various industrial and domestic applications. With five fingers, it offers a superior grip, allowing for handling a wider range of objects with ease. The design features a compact and lightweight construction, suitable for integration into various systems. To control the hand, computer vision is utilized to detect hand motion, which is then used to move the animatronic hand. This mechanism achieves enhanced artificial dexterity, crucial for teleoperated service robots in various fields such as extraterrestrial rovers, satellite repair systems, and deep-sea exploration submarines.
 
 Motivation
 The project aims to design and fabricate an animatronic hand for demonstrative and educational purposes while exploring potential applications. Furthermore, it seeks to address the challenge of limited access to technical expertise in remote locations by enabling remote access to physical manipulation with high precision.
